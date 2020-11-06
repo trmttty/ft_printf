@@ -1,0 +1,11 @@
+.DS_Store
+*.a
+*.o
+a.out*
+main*
+*.pdf
+test*
+.swap
+pft_2019/
+*.gch
+pft/
